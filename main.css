@@ -12,9 +12,8 @@ body {
 .app {
     display: flex;
     flex-flow: column;
-
-    width: 100vh;
-    height: 100vh;
+    min-height: 1000px;
+    width: 100%;
 }
 
 header {
